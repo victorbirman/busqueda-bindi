@@ -2,3 +2,15 @@
     display: grid;
     justify-content: center;
 }
+
+
+.container-item {
+    border: 2px solid black;
+    display: flex;
+}
+
+ img{
+    width: 50px;
+    aspect-ratio: 1;
+
+}
